@@ -3,6 +3,7 @@
 **Repomate** is a custom IntelliJ plugin developed to streamline and simplify various development tasks, helping developers work more efficiently within their IDE. Repomate provides an integrated set of tools to automate project setup, manage configurations, and facilitate development workflows.
 
 ## Features
+![Repomate Screenshot](images/repomate.png)
 
 1. **Clone Project from Space**  
    Easily clone a project from your designated workspace with a single click. Repomate streamlines the cloning process, reducing setup time and allowing developers to start working on projects quickly.
